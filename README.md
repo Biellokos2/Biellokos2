@@ -20,4 +20,4 @@
 
 ### Tecnologias mais usadas no projetos do GitHub
 
-[![Linguagens mais usadas!](https://github-readme-stats.vercel.app/api/top-langs/?username=Biellokos2&layout=compact_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens mais usadas!](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCosta01&layout=compact_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
